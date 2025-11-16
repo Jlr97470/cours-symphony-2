@@ -20,4 +20,4 @@
 ###< symfony/phpunit-bridge ###
 .env
 .env.test
-.end.dev
+.env.dev
